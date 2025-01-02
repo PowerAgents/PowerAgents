@@ -19,7 +19,7 @@ Join the league of extraordinary individuals who've embraced the power of PowerA
 
 ## 🔗 Connect with Us  
 
-- 🐦 [Twitter](https://twitter.com/PowerAgents)  
+- 🐦 [Twitter](https://twitter.com/PowerAgentsfun)  
 
 ---  
 
