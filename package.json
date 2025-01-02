@@ -1,0 +1,48 @@
+{
+  "name": "app",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ai-sdk/openai": "^1.0.11",
+    "@goat-sdk/adapter-vercel-ai": "^0.2.2",
+    "@goat-sdk/crossmint": "^0.3.8",
+    "@goat-sdk/plugin-jupiter": "^0.2.6",
+    "@goat-sdk/plugin-spl-token": "^0.2.7",
+    "@goat-sdk/wallet-solana": "^0.2.6",
+    "@google/generative-ai": "^0.21.0",
+    "@radix-ui/react-slot": "^1.1.1",
+    "@solana/web3.js": "^1.98.0",
+    "@vercel/blob": "^0.27.0",
+    "ai": "^4.0.18",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "framer-motion": "^11.14.4",
+    "langchain": "^0.3.7",
+    "lucide-react": "^0.468.0",
+    "next": "15.1.0",
+    "openai": "^4.76.3",
+    "openai-edge": "^1.2.2",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwind-merge": "^2.5.5",
+    "tailwindcss-animate": "^1.0.7",
+    "zustand": "^5.0.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "15.1.0",
+    "postcss": "^8",
+    "tailwindcss": "^3.4.1",
+    "typescript": "^5"
+  }
+}
